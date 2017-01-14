@@ -25,7 +25,7 @@ SECRET_KEY = 'nvoac%ro-idj8cktgfc1@8dz78yp-z(o8*c%%1f5i@kxh1zw*c'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'amyb69.pythonanywhere.com']
 
 
 # Application definition
